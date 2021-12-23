@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 0c8314271a0468146af0c75b0c8a143a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4527461601711591199
+    second: CSC227_-_Purple_Cultist_Animation_0
+  - first:
+      213: -2237823527359309859
+    second: CSC227_-_Purple_Cultist_Animation_1
+  - first:
+      213: -3439271090590262399
+    second: CSC227_-_Purple_Cultist_Animation_2
+  - first:
+      213: 2427885396945507085
+    second: CSC227_-_Purple_Cultist_Animation_3
+  - first:
+      213: -4171295676070975554
+    second: CSC227_-_Purple_Cultist_Animation_4
+  - first:
+      213: 427426852522227108
+    second: CSC227_-_Purple_Cultist_Animation_5
+  - first:
+      213: -5814445259336092499
+    second: CSC227_-_Purple_Cultist_Animation_6
+  - first:
+      213: 2150835499906985695
+    second: CSC227_-_Purple_Cultist_Animation_7
+  - first:
+      213: 8067780063656153297
+    second: CSC227_-_Purple_Cultist_Animation_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2143
+        width: 643
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8d38d656c4de30800000000000000
+      internalID: 4527461601711591199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2143
+        width: 708
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd79cbdbb57a1f0e0800000000000000
+      internalID: -2237823527359309859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2143
+        width: 772
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd8174a214540d0800000000000000
+      internalID: -3439271090590262399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1118
+        width: 802
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039b40b7e491b120800000000000000
+      internalID: 2427885396945507085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1118
+        width: 708
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7aaaedea49c16c0800000000000000
+      internalID: -4171295676070975554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1118
+        width: 771
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5fc0035768ee500800000000000000
+      internalID: 427426852522227108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 94
+        width: 708
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da47157c7d0fe4fa0800000000000000
+      internalID: -5814445259336092499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 94
+        width: 771
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6146dd7d49dd10800000000000000
+      internalID: 2150835499906985695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Purple_Cultist_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 94
+        width: 802
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01434193386ff60800000000000000
+      internalID: 8067780063656153297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

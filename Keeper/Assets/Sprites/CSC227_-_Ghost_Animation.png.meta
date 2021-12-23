@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 18044a6e775351f4a9e8c0a8d701e682
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4853385062805284852
+    second: CSC227_-_Ghost_Animation_0
+  - first:
+      213: 2317229447858224849
+    second: CSC227_-_Ghost_Animation_1
+  - first:
+      213: -7806505484547843798
+    second: CSC227_-_Ghost_Animation_2
+  - first:
+      213: 1074859650879826331
+    second: CSC227_-_Ghost_Animation_3
+  - first:
+      213: 6048605374972372950
+    second: CSC227_-_Ghost_Animation_4
+  - first:
+      213: -6438210900864067859
+    second: CSC227_-_Ghost_Animation_5
+  - first:
+      213: 6870966262151982209
+    second: CSC227_-_Ghost_Animation_6
+  - first:
+      213: -273179295929120979
+    second: CSC227_-_Ghost_Animation_7
+  - first:
+      213: 2665788228557898330
+    second: CSC227_-_Ghost_Animation_8
+  - first:
+      213: -1541336677031058287
+    second: CSC227_-_Ghost_Animation_9
+  - first:
+      213: 8758683151924449415
+    second: CSC227_-_Ghost_Animation_10
+  - first:
+      213: -3535355736231196191
+    second: CSC227_-_Ghost_Animation_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3069
+        width: 1027
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f722b21000ba5340800000000000000
+      internalID: 4853385062805284852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 3101
+        width: 838
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def9a6d7e3782020800000000000000
+      internalID: 2317229447858224849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3069
+        width: 867
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2913685f98b9a390800000000000000
+      internalID: -7806505484547843798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2077
+        width: 838
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99a71a582baaee00800000000000000
+      internalID: 1074859650879826331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2557
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72fb9aa86f0f350800000000000000
+      internalID: 6048605374972372950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2045
+        width: 867
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de613f8fb41e6a6a0800000000000000
+      internalID: -6438210900864067859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1053
+        width: 838
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c234759639a5f50800000000000000
+      internalID: 6870966262151982209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1021
+        width: 870
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274722b0e8753cf0800000000000000
+      internalID: -273179295929120979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1024
+        width: 929
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a528c991548cef420800000000000000
+      internalID: 2665788228557898330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1533
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194684665721c9ae0800000000000000
+      internalID: -1541336677031058287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 867
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d7a2dbe71d8970800000000000000
+      internalID: 8758683151924449415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSC227_-_Ghost_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2058
+        width: 1017
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cc4360b4efeec0800000000000000
+      internalID: -3535355736231196191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
